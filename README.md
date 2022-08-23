@@ -17,4 +17,12 @@
 <a href="https://github.com/birdgg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=birdgg&show_icons=true&include_all_commits=true&hide_border=tru&custom_title=Birdgg%27s%20Github%20Stats" alt="Birdgg's github stats" /></a> 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript      30 hrs 35 mins  ███████████████████▓░░░░░   78.77 %
+JavaScript      5 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Markdown        1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Other           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+```
+
 <!--END_SECTION:waka-->
