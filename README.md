@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Astro        8 hrs 16 mins   ████████████▒░░░░░░░░░░░░   49.38 %
-JavaScript   3 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-TypeScript   2 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Other        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Astro        8 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.22 %
+JavaScript   3 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+TypeScript   2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Other        1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
 ```
 
 <!--END_SECTION:waka-->
