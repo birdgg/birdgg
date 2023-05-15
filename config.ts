@@ -1,12 +1,12 @@
 export const opensource = {
   active: [
     'crossbell-box/xlog',
+    'birdgg/xlog-custom-css-debugger',
   ],
   toys: {
     limit: 3,
     random: true,
     repos: [
-      'birdgg/xlog-custom-css-debugger',
       'birdgg/react-github'
     ],
   },
