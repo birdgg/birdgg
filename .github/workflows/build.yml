@@ -6,6 +6,7 @@ on:
       - master
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,7 +14,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: ["18"]
 
     steps:
       - uses: actions/checkout@v2
@@ -42,3 +43,4 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: "main"
