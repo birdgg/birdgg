@@ -41,7 +41,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github-eta.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>5/11/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>5/18/2023</td></tr></tbody></table>
 
 **Current Learning**
 
@@ -54,11 +54,11 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/donavon/use-dark-mode>donavon/use-dark-mode</a><span> A custom React Hook to help you implement a "dark mode" component.</span></li><li><a href=https://github.com/Crossbell-Box/crossbell.js>Crossbell-Box/crossbell.js</a><span> Crossbell.js - A JavaScript SDK to interact with Crossbell</span></li><li><a href=https://github.com/daidr/truth-table>daidr/truth-table</a><span> 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)</span></li><li><a href=https://github.com/Voine/ChatWaifu_Mobile>Voine/ChatWaifu_Mobile</a><span> 移动版二次元 AI 老婆聊天器</span></li><li><a href=https://github.com/remcohaszing/monaco-tailwindcss>remcohaszing/monaco-tailwindcss</a><span> Tailwindcss intellisense support in Monaco editor</span></li></ul>
+<ul><li><a href=https://github.com/pillarjs/path-to-regexp>pillarjs/path-to-regexp</a><span> Turn a path string such as `/user/:name` into a regular expression</span></li><li><a href=https://github.com/ozh/github-colors>ozh/github-colors</a><span> 🌈 Github colors for all the languages</span></li><li><a href=https://github.com/donavon/use-dark-mode>donavon/use-dark-mode</a><span> A custom React Hook to help you implement a "dark mode" component.</span></li><li><a href=https://github.com/Crossbell-Box/crossbell.js>Crossbell-Box/crossbell.js</a><span> Crossbell.js - A JavaScript SDK to interact with Crossbell</span></li><li><a href=https://github.com/daidr/truth-table>daidr/truth-table</a><span> 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/AniList/ApiV2-GraphQL-Docs>AniList/ApiV2-GraphQL-Docs</a><span> AniList API V2 GraphQL Documentation</span></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><span> The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 The best on-chain and open-source blogging community for everyone.</span></li><li><a href=https://github.com/haoel/haoel.github.io>haoel/haoel.github.io</a></li><li><a href=https://github.com/inoutcode/ethereum_book>inoutcode/ethereum_book</a><span> 精通以太坊 （中文版）</span></li></ul>
+<ul><li><a href=https://github.com/LinuxSuRen/remote-jobs-in-china>LinuxSuRen/remote-jobs-in-china</a><span> 支持远程办公的中国公司</span></li><li><a href=https://github.com/Interview-Science/interview-english>Interview-Science/interview-english</a><span> English for Tech Interview 面试中的英语</span></li><li><a href=https://github.com/Voine/ChatWaifu_Mobile>Voine/ChatWaifu_Mobile</a><span> 移动版二次元 AI 老婆聊天器</span></li><li><a href=https://github.com/birdgg/xLog-custom-css-debugger>birdgg/xLog-custom-css-debugger</a><span> A convenient web extension for debugging custom CSS in xLog</span></li><li><a href=https://github.com/antfu/use>antfu/use</a><span> Things I am using</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/17/23, 5:28 PM<br>下一次刷新：5/18/23, 5:28 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/18/23, 9:05 AM<br>下一次刷新：5/19/23, 9:05 AM</p>
