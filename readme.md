@@ -54,11 +54,11 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a><span> Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/pillarjs/path-to-regexp>pillarjs/path-to-regexp</a><span> Turn a path string such as `/user/:name` into a regular expression</span></li><li><a href=https://github.com/ozh/github-colors>ozh/github-colors</a><span> 🌈 Github colors for all the languages</span></li><li><a href=https://github.com/donavon/use-dark-mode>donavon/use-dark-mode</a><span> A custom React Hook to help you implement a "dark mode" component.</span></li></ul>
+<ul><li><a href=https://github.com/laobubu/HyperMD>laobubu/HyperMD</a><span> A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><span> 🍬 BlockSuite is the open-source collaborative editor project behind AFFiNE.</span></li><li><a href=https://github.com/NeverBehave/Tweet2Telegram>NeverBehave/Tweet2Telegram</a><span> ❤️ Liked Tweets to Telegram</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a><span> Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><span> The most powerful virtual list component for React</span></li><li><a href=https://github.com/LinuxSuRen/remote-jobs-in-china>LinuxSuRen/remote-jobs-in-china</a><span> 支持远程办公的中国公司</span></li><li><a href=https://github.com/Tim9Liu9/TimLiu-iOS>Tim9Liu9/TimLiu-iOS</a><span> iOS开发常用三方库、插件、知名博客等等</span></li><li><a href=https://github.com/ShenQingchuan/HeteroDoc>ShenQingchuan/HeteroDoc</a><span> Heterocube Cloud Collaborative Docs. Built with Vue3 + TypeScript + ProseMirror + Y.js + DeepKit</span></li><li><a href=https://github.com/rauchg/how-is-this-not-illegal>rauchg/how-is-this-not-illegal</a><span> A demo of using RSC and Vercel Postgres, legally</span></li></ul>
+<ul><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><span> ⚡️ WebExtension Vite Starter Template</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 The best on-chain and open-source blogging community for everyone.</span></li><li><a href=https://github.com/birdgg/homebrew-affine>birdgg/homebrew-affine</a><span> AFFiNE formulae for the Homebrew package manager</span></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><span> Enlightened library to convert HTML and CSS to SVG</span></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a><span> A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/19/23, 9:06 AM<br>下一次刷新：5/20/23, 9:06 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/20/23, 9:03 AM<br>下一次刷新：5/21/23, 9:03 AM</p>
