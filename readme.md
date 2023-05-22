@@ -58,7 +58,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/LinuxSuRen/remote-jobs-in-china>LinuxSuRen/remote-jobs-in-china</a><span> 支持远程办公的中国公司</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/jamiebuilds/tinykeys>jamiebuilds/tinykeys</a><span> A tiny (~400 B) & modern library for keybindings.</span></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a><span> A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/rauchg/how-is-this-not-illegal>rauchg/how-is-this-not-illegal</a><span> A demo of using RSC and Vercel Postgres, legally</span></li></ul>
+<ul><li><a href=https://github.com/remcohaszing/monaco-tailwindcss>remcohaszing/monaco-tailwindcss</a><span> Tailwindcss intellisense support in Monaco editor</span></li><li><a href=https://github.com/birdgg/homebrew-affine>birdgg/homebrew-affine</a><span> AFFiNE formulae for the Homebrew package manager</span></li><li><a href=https://github.com/antfu/use>antfu/use</a><span> Things I am using</span></li><li><a href=https://github.com/Tim9Liu9/TimLiu-iOS>Tim9Liu9/TimLiu-iOS</a><span> iOS开发常用三方库、插件、知名博客等等</span></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><span> ⚡️ WebExtension Vite Starter Template</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/21/23, 9:10 AM<br>下一次刷新：5/22/23, 9:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/22/23, 9:09 AM<br>下一次刷新：5/23/23, 9:09 AM</p>
