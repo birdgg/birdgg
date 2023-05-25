@@ -41,7 +41,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>5/23/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>5/24/2023</td></tr></tbody></table>
 
 **Current Learning**
 
@@ -54,11 +54,11 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><span> Your repo reached a stars milestone? Celebrate with a video of your stargazers!</span></li><li><a href=https://github.com/Peek-A-Booo/L-GPT>Peek-A-Booo/L-GPT</a><span> L-GPT is an open-source project that helps you improve your learning, work, and life efficiency by providing various AI models.</span></li><li><a href=https://github.com/MannyCooper/anzifan.com>MannyCooper/anzifan.com</a><span> Personal blog powered by Notion official API + Next.JS + WindiCSS!</span></li><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><span> A Telegram RSS bot that cares about your reading experience</span></li><li><a href=https://github.com/werifu/tweet-like-listener>werifu/tweet-like-listener</a><span> Download your 'like' images on twitter | 下载点赞过的推特图片</span></li></ul>
+<ul><li><a href=https://github.com/Richard9394/MingCute>Richard9394/MingCute</a><span> Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.</span></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><span> Your repo reached a stars milestone? Celebrate with a video of your stargazers!</span></li><li><a href=https://github.com/Peek-A-Booo/L-GPT>Peek-A-Booo/L-GPT</a><span> L-GPT is an open-source project that helps you improve your learning, work, and life efficiency by providing various AI models.</span></li><li><a href=https://github.com/MannyCooper/anzifan.com>MannyCooper/anzifan.com</a><span> Personal blog powered by Notion official API + Next.JS + WindiCSS!</span></li><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><span> A Telegram RSS bot that cares about your reading experience</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/birdgg/homebrew-affine>birdgg/homebrew-affine</a><span> AFFiNE formulae for the Homebrew package manager</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><span> 🍬 BlockSuite is the open-source collaborative editor project behind AFFiNE.</span></li><li><a href=https://github.com/birdgg/xLog-custom-css-debugger>birdgg/xLog-custom-css-debugger</a><span> A convenient web extension for debugging custom CSS in xLog</span></li><li><a href=https://github.com/Crossbell-Box/crossbell.js>Crossbell-Box/crossbell.js</a><span> Crossbell.js - A JavaScript SDK to interact with Crossbell</span></li><li><a href=https://github.com/egoist/ts-lib-starter>egoist/ts-lib-starter</a><span> My minimal TypeScript library starter</span></li></ul>
+<ul><li><a href=https://github.com/tailwindlabs/heroicons>tailwindlabs/heroicons</a><span> A set of free MIT-licensed high-quality SVG icons for UI development.</span></li><li><a href=https://github.com/chaance/vitest-dom>chaance/vitest-dom</a><span> Custom Vitest matchers to test the state of the DOM, forked from jest-dom.</span></li><li><a href=https://github.com/jamiebuilds/tinykeys>jamiebuilds/tinykeys</a><span> A tiny (~400 B) & modern library for keybindings.</span></li><li><a href=https://github.com/remcohaszing/monaco-tailwindcss>remcohaszing/monaco-tailwindcss</a><span> Tailwindcss intellisense support in Monaco editor</span></li><li><a href=https://github.com/daidr/truth-table>daidr/truth-table</a><span> 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/24/23, 9:08 AM<br>下一次刷新：5/25/23, 9:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/25/23, 9:06 AM<br>下一次刷新：5/26/23, 9:06 AM</p>
