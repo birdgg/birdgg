@@ -41,7 +41,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>5/24/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>5/29/2023</td></tr></tbody></table>
 
 **Current Learning**
 
@@ -58,7 +58,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Peek-A-Booo/L-GPT>Peek-A-Booo/L-GPT</a><span> L-GPT is an open-source project that helps you improve your learning, work, and life efficiency by providing various AI models.</span></li><li><a href=https://github.com/jamiebuilds/tinykeys>jamiebuilds/tinykeys</a><span> A tiny (~400 B) & modern library for keybindings.</span></li><li><a href=https://github.com/pillarjs/path-to-regexp>pillarjs/path-to-regexp</a><span> Turn a path string such as `/user/:name` into a regular expression</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 The best on-chain and open-source blogging community for everyone.</span></li><li><a href=https://github.com/ozh/github-colors>ozh/github-colors</a><span> 🌈 Github colors for all the languages</span></li></ul>
+<ul><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><span> 🪽 The best on-chain and open-source blogging community for everyone.</span></li><li><a href=https://github.com/laobubu/HyperMD>laobubu/HyperMD</a><span> A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.</span></li><li><a href=https://github.com/pillarjs/path-to-regexp>pillarjs/path-to-regexp</a><span> Turn a path string such as `/user/:name` into a regular expression</span></li><li><a href=https://github.com/Voine/ChatWaifu_Mobile>Voine/ChatWaifu_Mobile</a><span> 移动版二次元 AI 老婆聊天器</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a><span> Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/28/23, 9:13 AM<br>下一次刷新：5/29/23, 9:13 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/29/23, 9:08 AM<br>下一次刷新：5/30/23, 9:08 AM</p>
