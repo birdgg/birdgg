@@ -41,7 +41,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>6/4/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>6/5/2023</td></tr></tbody></table>
 
 **Current Learning**
 
@@ -58,7 +58,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/Voine/ChatWaifu_Mobile>Voine/ChatWaifu_Mobile</a><span> 移动版二次元 AI 老婆聊天器</span></li><li><a href=https://github.com/Richard9394/MingCute>Richard9394/MingCute</a><span> Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.</span></li><li><a href=https://github.com/pillarjs/path-to-regexp>pillarjs/path-to-regexp</a><span> Turn a path string such as `/user/:name` into a regular expression</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/souvikinator/notion-to-md>souvikinator/notion-to-md</a><span> Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)</span></li></ul>
+<ul><li><a href=https://github.com/Richard9394/MingCute>Richard9394/MingCute</a><span> Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.</span></li><li><a href=https://github.com/ozh/github-colors>ozh/github-colors</a><span> 🌈 Github colors for all the languages</span></li><li><a href=https://github.com/misskey-dev/misskey>misskey-dev/misskey</a><span> 🌎 An interplanetary microblogging platform 🚀</span></li><li><a href=https://github.com/Crossbell-Box/crossbell.js>Crossbell-Box/crossbell.js</a><span> Crossbell.js - A JavaScript SDK to interact with Crossbell</span></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><span> Your repo reached a stars milestone? Celebrate with a video of your stargazers!</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/5/23, 9:16 AM<br>下一次刷新：6/6/23, 9:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/6/23, 9:18 AM<br>下一次刷新：6/7/23, 9:18 AM</p>
