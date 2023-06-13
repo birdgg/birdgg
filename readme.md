@@ -58,7 +58,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/egoist/ts-lib-starter>egoist/ts-lib-starter</a><span> My minimal TypeScript library starter</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a><span> Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/LibreTranslate/LibreTranslate>LibreTranslate/LibreTranslate</a><span> Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.</span></li><li><a href=https://github.com/chaance/vitest-dom>chaance/vitest-dom</a><span> Custom Vitest matchers to test the state of the DOM, forked from jest-dom.</span></li><li><a href=https://github.com/vue-vine/vue-vine>vue-vine/vue-vine</a><span> Another style of writing Vue components.</span></li></ul>
+<ul><li><a href=https://github.com/testing-library/react-testing-library>testing-library/react-testing-library</a><span> 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.</span></li><li><a href=https://github.com/LibreTranslate/LibreTranslate>LibreTranslate/LibreTranslate</a><span> Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.</span></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><span> 哔哩哔哩-API收集整理【不断更新中....】</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><span> 🍬 BlockSuite is the open-source collaborative editor project behind AFFiNE.</span></li><li><a href=https://github.com/egoist/ts-lib-starter>egoist/ts-lib-starter</a><span> My minimal TypeScript library starter</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/12/23, 9:18 AM<br>下一次刷新：6/13/23, 9:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/13/23, 9:15 AM<br>下一次刷新：6/14/23, 9:15 AM</p>
