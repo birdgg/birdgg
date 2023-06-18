@@ -54,11 +54,11 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Recent Star...**
 
-<ul><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><span> A block-style editor with clean JSON output</span></li><li><a href=https://github.com/TypeCellOS/BlockNote>TypeCellOS/BlockNote</a><span> A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</span></li><li><a href=https://github.com/STRRL/cloudflare-tunnel-ingress-controller>STRRL/cloudflare-tunnel-ingress-controller</a></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a><span> React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li><li><a href=https://github.com/antfu/raycast-multi-translate>antfu/raycast-multi-translate</a><span> A Raycast extension that translates text to multiple languages at once</span></li></ul>
+<ul><li><a href=https://github.com/vercel-labs/ai>vercel-labs/ai</a><span> Build AI-powered applications with React, Svelte, and Vue</span></li><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><span> A block-style editor with clean JSON output</span></li><li><a href=https://github.com/TypeCellOS/BlockNote>TypeCellOS/BlockNote</a><span> A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</span></li><li><a href=https://github.com/STRRL/cloudflare-tunnel-ingress-controller>STRRL/cloudflare-tunnel-ingress-controller</a></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a><span> React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li></ul>
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a><span> 🍬 BlockSuite is the open-source collaborative editor project behind AFFiNE.</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a><span> Minimalistic React Framework</span></li><li><a href=https://github.com/MannyCooper/anzifan.com>MannyCooper/anzifan.com</a><span> Personal blog powered by Notion official API + Next.JS + WindiCSS!</span></li><li><a href=https://github.com/NeverBehave/Tweet2Telegram>NeverBehave/Tweet2Telegram</a><span> ❤️ Liked Tweets to Telegram</span></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><span> Your repo reached a stars milestone? Celebrate with a video of your stargazers!</span></li></ul>
+<ul><li><a href=https://github.com/laobubu/HyperMD>laobubu/HyperMD</a><span> A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a><span> Minimalistic React Framework</span></li><li><a href=https://github.com/LibreTranslate/LibreTranslate>LibreTranslate/LibreTranslate</a><span> Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.</span></li><li><a href=https://github.com/pseudoyu/blockchain-guide>pseudoyu/blockchain-guide</a><span> 区块链入门指南</span></li><li><a href=https://github.com/Richard9394/MingCute>Richard9394/MingCute</a><span> Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/17/23, 9:09 AM<br>下一次刷新：6/18/23, 9:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/18/23, 9:22 AM<br>下一次刷新：6/19/23, 9:22 AM</p>
