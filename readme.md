@@ -58,7 +58,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/laobubu/HyperMD>laobubu/HyperMD</a><span> A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a><span> Minimalistic React Framework</span></li><li><a href=https://github.com/LibreTranslate/LibreTranslate>LibreTranslate/LibreTranslate</a><span> Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.</span></li><li><a href=https://github.com/pseudoyu/blockchain-guide>pseudoyu/blockchain-guide</a><span> 区块链入门指南</span></li><li><a href=https://github.com/Richard9394/MingCute>Richard9394/MingCute</a><span> Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.</span></li></ul>
+<ul><li><a href=https://github.com/LibreTranslate/LibreTranslate>LibreTranslate/LibreTranslate</a><span> Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.</span></li><li><a href=https://github.com/antfu/raycast-multi-translate>antfu/raycast-multi-translate</a><span> A Raycast extension that translates text to multiple languages at once</span></li><li><a href=https://github.com/pseudoyu/blockchain-guide>pseudoyu/blockchain-guide</a><span> 区块链入门指南</span></li><li><a href=https://github.com/microsoft/deoptexplorer-vscode>microsoft/deoptexplorer-vscode</a><span> A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).</span></li><li><a href=https://github.com/werifu/tweet-like-listener>werifu/tweet-like-listener</a><span> Download your 'like' images on twitter | 下载点赞过的推特图片</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/18/23, 9:22 AM<br>下一次刷新：6/19/23, 9:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/19/23, 9:13 AM<br>下一次刷新：6/20/23, 9:13 AM</p>
