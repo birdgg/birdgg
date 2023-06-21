@@ -41,7 +41,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>6/19/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>6/20/2023</td></tr></tbody></table>
 
 **Current Learning**
 
@@ -58,7 +58,7 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 
 **Review Stared...**
 
-<ul><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a><span> Minimalistic React Framework</span></li><li><a href=https://github.com/vue-vine/vue-vine>vue-vine/vue-vine</a><span> Another style of writing Vue components.</span></li><li><a href=https://github.com/misskey-dev/misskey>misskey-dev/misskey</a><span> 🌎 An interplanetary microblogging platform 🚀</span></li><li><a href=https://github.com/Peek-A-Booo/L-GPT>Peek-A-Booo/L-GPT</a><span> L-GPT is an open-source project that helps you improve your learning, work, and life efficiency by providing various AI models.</span></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><span> 哔哩哔哩-API收集整理【不断更新中....】</span></li></ul>
+<ul><li><a href=https://github.com/egoist/ts-lib-starter>egoist/ts-lib-starter</a><span> My minimal TypeScript library starter</span></li><li><a href=https://github.com/laobubu/HyperMD>laobubu/HyperMD</a><span> A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.</span></li><li><a href=https://github.com/Peek-A-Booo/L-GPT>Peek-A-Booo/L-GPT</a><span> L-GPT is an open-source project that helps you improve your learning, work, and life efficiency by providing various AI models.</span></li><li><a href=https://github.com/misskey-dev/misskey>misskey-dev/misskey</a><span> 🌎 An interplanetary microblogging platform 🚀</span></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><span> 哔哩哔哩-API收集整理【不断更新中....】</span></li></ul>
 
 **Can you find me?**
 
@@ -73,4 +73,4 @@ I'm Birdgg 👋, a Front-end Developer / Console Gamer.
 <p align=center><strong>この歌声が UNION！！</strong></p>
 <p align=center><strong>Big thanks to <a href="https://github.com/innei" target="_blank">Innei</a> for the project</strong></>
 </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/20/23, 9:10 AM<br>下一次刷新：6/21/23, 9:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/21/23, 9:13 AM<br>下一次刷新：6/22/23, 9:13 AM</p>
