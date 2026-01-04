@@ -5,10 +5,9 @@ import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import MarkdownIt from 'markdown-it'
 import * as rax from 'retry-axios'
-import { github, motto, opensource, timeZone, xlog } from './config'
+import { motto, opensource, techStack, timeZone } from './config'
 import { COMMNETS } from './constants'
-import { GRepo, XlogPost } from './types'
-import { getRecentPosts, getUserCharacterId } from './apis/xlog'
+import { GRepo } from './types'
 
 
 const md = new MarkdownIt({
@@ -49,18 +48,6 @@ type GHItem = {
   html_url: string
 }
 
-type PostItem = {
-  title: string
-  summary: string
-  created: string
-  modified: string
-  id: string
-  slug: string
-  category: {
-    name: string
-    slug: string
-  }
-}
 /**
  * 生成 `开源在` 结构
  */
@@ -132,25 +119,6 @@ ${tbody}
 </table>`
 }
 
-/**
- * 生成 Repo  HTML 结构
- */
-
-function generateRepoHTML<T extends GHItem>(item: T) {
-  return `<li><a href="${item.html_url}">${item.full_name}</a>${
-    item.description ? `<span>  ${item.description}</span>` : ''
-  }</li>`
-}
-
-function generatePostItemHTML(item: XlogPost) {
-  return m`<li><span>${new Date(item.metadata.content.date_published).toLocaleDateString(undefined, {
-    dateStyle: 'short',
-    timeZone,
-  })} -  <a href="${item.metadata.content.external_urls[0]}">${item.metadata.content.title}</a></span>${
-     `<p>${item.metadata.content.summary}</p>` 
-  }</li>`
-}
-
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
@@ -172,66 +140,18 @@ async function main() {
     }),
   )
 
+  // 生成 Tech Stack
+  const techStackHtml = m`<p align="center">
+    <img src="https://skillicons.dev/icons?i=${techStack.join(',')}&perline=6" />
+  </p>`
+
   newContent = newContent
+    .replace(gc('TECH_STACK'), techStackHtml)
     .replace(
       gc('OPENSOURCE_DASHBOARD_ACTIVE'),
       generateOpenSourceSectionHtml(activeOpenSourceDetail),
     )
     .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
-
-  // 获取 Star
-  const star: any[] = await gh
-    .get('/users/' + github.name + '/starred')
-    .then((data) => data.data)
-
-  {
-    // TOP 5
-    const topStar5 = star
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    newContent = newContent.replace(
-      gc('RECENT_STAR'),
-      m`
-    <ul>
-${topStar5}
-    </ul>
-    `,
-    )
-
-    // 曾经点过的 Star
-    const random = shuffle(star.slice(5))
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    newContent = newContent.replace(
-      gc('RANDOM_GITHUB_STARS'),
-      m`
-      <ul>
-  ${random}
-      </ul>
-      `,
-    )
-  }
-
-  {
-    const characterId = await getUserCharacterId(xlog)
-    const posts = await getRecentPosts(characterId)
-      .then(data => {
-        return data.reduce((acc, cur) => {
-          return acc.concat(generatePostItemHTML(cur))
-        }, '')
-      })
-
-    newContent = newContent.replace(
-      gc('RECENT_POSTS'),
-      m`
-      <ul>
-  ${posts}
-      </ul>
-      `,
-    )
-  }
 
   // 注入 FOOTER
   {

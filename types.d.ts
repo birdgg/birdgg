@@ -102,17 +102,3 @@ export interface Permissions {
   pull: boolean
 }
 
-export interface XlogUser {
-  characterId: number
-}
-
-export interface XlogPost {
-  metadata: {
-    content: {
-      title: string
-      external_urls: string[]
-      date_published: string
-      summary: string
-    }
-  }
-}
