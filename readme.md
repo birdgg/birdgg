@@ -28,7 +28,7 @@
 
 <p align=center><strong>この歌声が UNION！！</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/5/26, 8:34 AM<br>下一次刷新：1/6/26, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/6/26, 8:32 AM<br>下一次刷新：1/7/26, 8:32 AM</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
