@@ -20,7 +20,7 @@
 
 ### ˗ˏˋ 🎁 Toys 🎁 ˎˊ˗
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>2/1/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>5/11/2023</td><td>2/2/2026</td></tr></tbody></table>
 
 ---
 
@@ -28,7 +28,7 @@
 
 <p align=center><strong>この歌声が UNION！！</strong></p>
 
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/2/26, 8:39 AM<br>下一次刷新：2/3/26, 8:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/3/26, 8:39 AM<br>下一次刷新：2/4/26, 8:39 AM</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
