@@ -1,35 +1,29 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,50:f8b4b4,100:c3aed6&height=180&section=header&text=&fontSize=0" width="100%"/>
+
+### ꒰ birdgg ꒱
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=300&size=14&duration=4000&pause=3000&color=B08968&center=true&vCenter=true&width=300&lines=%E2%9C%A7+building+things+with+care" alt="Typing SVG" /></a>
+
+<br>
+
+<img src="./assets/divider.svg" width="300"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,haskell&perline=4" />
+
+<br><br>
+
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@birdgg.readme?theme=moebooru-h"></a>
 
-</div>
+<br>
 
----
+<sub>この歌声が UNION！！</sub>
 
-### ˗ˏˋ ♡ Tech Stack ♡ ˎˊ˗
+<br><br>
 
-<p align=center><img src="https://skillicons.dev/icons?i=react,ts,tailwind,rust,haskell&perline=6"></p>
-
----
-
-### ˗ˏˋ 🌸 Open Source 🌸 ˎˊ˗
-
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Crossbell-Box/xLog><b>Crossbell-Box/xLog</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Crossbell-Box/xLog/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Crossbell-Box/xLog/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Crossbell-Box/xLog/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Crossbell-Box/xLog?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/birdgg/xLog-custom-css-debugger><b>birdgg/xLog-custom-css-debugger</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/xLog-custom-css-debugger?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/birdgg/xLog-custom-css-debugger?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/birdgg/xLog-custom-css-debugger/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/birdgg/xLog-custom-css-debugger?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/birdgg/xLog-custom-css-debugger/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/birdgg/xLog-custom-css-debugger?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/birdgg/xLog-custom-css-debugger/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/birdgg/xLog-custom-css-debugger?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
-
----
-
-### ˗ˏˋ 🎁 Toys 🎁 ˎˊ˗
-
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/birdgg/react-github target=_blank><b>birdgg/react-github</b></a> <a href=https://react-github.birdgg.me target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/birdgg/react-github?style=flat-square&labelColor=343b41"></td><td>11/5/2023</td><td>1/1/2026</td></tr></tbody></table>
-
----
-
-<div align="center">
-
-<p align=center><strong>この歌声が UNION！！</strong></p>
-
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/1/2026, 12:25 pm<br>下一次刷新：5/1/2026, 12:25 pm</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c3aed6,50:f8b4b4,100:ffecd2&height=100&section=footer" width="100%"/>
 
 </div>
